@@ -1,0 +1,30 @@
+# Carpeta bin generada por compilación
+bin/
+
+# Carpeta obj generada por compilación
+obj/
+
+# Carpeta Debug generada por compilación
+Debug/
+
+# Carpeta Release generada por compilación
+Release/
+
+# Carpeta x64 generada por compilación
+x64/
+
+# Carpeta x32 generada por compilación
+x32/
+
+Enumerador/
+Exe2shell/
+Otros/
+.vs/
+
+# Ignorar carpetas bin, obj, Debug, Release, x64 y x32 en todos los subproyectos
+**/bin/
+**/obj/
+**/Debug/
+**/Release/
+**/x64/
+**/x32/
